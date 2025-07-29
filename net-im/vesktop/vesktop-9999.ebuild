@@ -5,3 +5,6 @@ HOMEPAGE="https://vesktop.vencord.dev/"
 
 SRC_URI="https://github.com/Vencord/Vesktop/releases/download/latest/vesktop-1.5.8.tar.gz"
 
+SLOT="0"
+KEYWORDS="~amd64"
+RESTRICT="mirror bindlist"
